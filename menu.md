@@ -29,3 +29,21 @@
 |7. | Quatro Vege(sos pomidorowy,ser,chilli,papryka)        |          |26 zł  | 45 zł| 55 zł|
 |8. | Grecka vege(sos pomidorowy, ser,papryka i oregano)    |          |26 zł  | 46 zł| 55 zł|
 |9. | Barbeque vege(sos pomidorowy, ser,cebula)             |          |26 zł  | 46 zł| 56 zł|
+
+## Sałatki
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmaker.pl%2Fprzepisy-salatki%2Fprzepis-salatka-milionera%2C1941171%2Csmaker.html&psig=AOvVaw1S6N1NEFZEB4r-qIoyjaXJ&ust=1673365089669000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPij7u_ouvwCFQAAAAAdAAAAABAE">
+|Lp.| Sałatka |cena|
+|---|---------|----|
+1. Lodowa
+2. Po grecku
+3. 
+
+
+
+
+## Sosy
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpolki.pl%2Fprzepisy%2Fprzekaski%2Csosy-do-mies-5-przepisow%2C10032912%2Cartykul.html&psig=AOvVaw1oNzHQvTf45PGJFATZDXFs&ust=1673365160702000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjv8ZHpuvwCFQAAAAAdAAAAABAE">
+
+
+## Napoje
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiabetyk.org.pl%2Fslodkie-napoje-zwiekszaja-ryzyko-zgonu%2F&psig=AOvVaw1pZzrgPKgknb71kUUNkTlT&ust=1673365197539000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD0p6PpuvwCFQAAAAAdAAAAABAE">
