@@ -9,3 +9,5 @@
 ## Kelner "####"
 
 ## Pomocnik kucharza "####"
+
+## Dostawca "#####"
