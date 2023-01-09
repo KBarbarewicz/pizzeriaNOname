@@ -15,3 +15,7 @@ Na stolnicy lub gładkim blacie stołu delikatnie podsypanym mąką rozwałkuj l
 ## Krok 4
 
 W garnku zagotuj pomidory pelatti z Knorr Naturalnie smaczne Spaghetti Bolognese - dzięki niemu uzyskasz sos o wyrazistym ziołowo pomidorowym smaku, który będzie miał idealną konsystencję. 
+
+## Krok 5
+
+Ciasto z wierzchu posmaruj wcześniej zrobionym sosem. Na środek pizzy, na sos, posyp stary sera mozzarella, na ser kolejno układaj plastry czerwonej cebuli, plastry kiełbasy oraz przecięte na pół pomidorki. 
