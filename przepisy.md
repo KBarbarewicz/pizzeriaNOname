@@ -19,3 +19,7 @@ W garnku zagotuj pomidory pelatti z Knorr Naturalnie smaczne Spaghetti Bolognese
 ## Krok 5
 
 Ciasto z wierzchu posmaruj wcześniej zrobionym sosem. Na środek pizzy, na sos, posyp stary sera mozzarella, na ser kolejno układaj plastry czerwonej cebuli, plastry kiełbasy oraz przecięte na pół pomidorki. 
+
+## Krok 6
+
+Pizzę umieść w nagrzanym do 220°C piekarniku i piecz około 25 minut. Gotową pizzę podawaj posypaną listkami rukoli i pozostałym sosem pomidorowym. 
