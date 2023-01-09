@@ -5,3 +5,5 @@
 ## Zastępca szefa "####"
 
 ## Właściciel "####"
+
+## Kelner "####"
