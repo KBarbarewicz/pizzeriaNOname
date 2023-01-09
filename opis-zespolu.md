@@ -11,3 +11,5 @@
 ## Pomocnik kucharza "####"
 
 ## Dostawca "#####"
+
+## Zastępca Właściciela "####"
