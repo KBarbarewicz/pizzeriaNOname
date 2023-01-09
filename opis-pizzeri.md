@@ -2,7 +2,10 @@
 
 ## Restauracja NOname
 ## Opis 
-Nasza pizzeria zawiera dobrej jakosci ciasto dzieki temu nasze pizze są doskonałego smaku. Ciasto jest produkowane z lokalnej mąki. ciasto jest ciękie dzieki czemu rozplywa sie w ustach. Dzięki naszym specjalnym przepisom utrzymywanych w tradycji w rodzinie, potrawy maja unikalny smak. przyjdź do lokalu i ciesz się miłą atmosferą zajadając coś z naszego menu. nie masz czasu? Zamów na wynos swoją ulubioną pizzę.
+Nasza pizzeria zawiera dobrej jakosci ciasto dzieki temu nasze pizze są doskonałego smaku. Ciasto jest produkowane z lokalnej mąki. ciasto jest ciękie dzieki czemu rozplywa sie w ustach. Dzięki naszym specjalnym przepisom utrzymywanych w tradycji w rodzinie, potrawy maja unikalny smak. przyjdź do lokalu i ciesz się miłą atmosferą zajadając coś z naszego menu. nie masz czasu? Zamów na wynos swoją ulubioną pizzę. Dostawa do domu i biura bardzo szybkim transportem
+
+Zapraszamy i życzymy smacznego!!!
+
 ## cel
 Naszym celem jest przekazywanie z pokolenia na pokolenie cudownych potraw ktore juz serwujemy od pokolen tak samo je udoskonalajac. Przez nasze doswiadczenie i swierze produkty doswiadczysz 6 nieba.
 
