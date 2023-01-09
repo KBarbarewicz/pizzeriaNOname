@@ -8,3 +8,4 @@ Naszym celem jest przekazywanie z pokolenia na pokolenie cudownych potraw ktore 
 
 ## opis lokacji
 Nasza restauracja znajduje sie w urokliwym i spokojnym miejscu. Okolica jest zalesiona oraz znajduje sie blisko akwenow przy ktorych mozna odpoczywac.
+nasz lokal zawiera rowniez taras z parasolami. 
