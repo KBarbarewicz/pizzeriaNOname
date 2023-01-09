@@ -23,3 +23,63 @@ Ciasto z wierzchu posmaruj wcześniej zrobionym sosem. Na środek pizzy, na sos,
 ## Krok 6
 
 Pizzę umieść w nagrzanym do 220°C piekarniku i piecz około 25 minut. Gotową pizzę podawaj posypaną listkami rukoli i pozostałym sosem pomidorowym. 
+
+## ciasto:
+
+mąka pszenna
+
+500 gramów
+
+mąka pszenna do podsypania
+
+200 gramów
+
+drożdże
+
+4.5 grama
+
+cukier
+
+50 gramów
+
+oliwa z oliwek
+
+50 mililitrów
+
+sól
+
+2.5 grama
+
+woda
+
+300 mililitrów
+
+farsz:
+
+czerwona cebula
+
+1 sztuka
+
+Naturalnie smaczne Spaghetti Bolognese Knorr
+
+1 opakowanie
+
+pomidory pelatti z puszki
+
+1 puszka
+
+pomidorki koktajlowe
+
+50 gramów
+
+tarta mozzarella
+
+100 gramów
+
+rukola
+
+100 gramów
+
+kiełbasa pepperoni
+
+100 gramów 
