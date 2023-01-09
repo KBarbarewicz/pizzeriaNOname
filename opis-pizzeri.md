@@ -7,4 +7,4 @@ Nasza pizzeria zawiera dobrej jakosci ciasto dzieki temu nasze pizze są doskona
 Naszym celem jest przekazywanie z pokolenia na pokolenie cudownych potraw ktore juz serwujemy od pokolen tak samo je udoskonalajac. Przez nasze doswiadczenie i swierze produkty doswiadczysz 6 nieba.
 
 ## opis lokacji
-Nasza restauracja znajduje sie w urokliwym i spokojnym miejscu.
+Nasza restauracja znajduje sie w urokliwym i spokojnym miejscu. Okolica jest zalesiona oraz znajduje sie blisko akwenow przy ktorych mozna odpoczywac.
