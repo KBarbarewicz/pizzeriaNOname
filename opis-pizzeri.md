@@ -8,4 +8,4 @@ Naszym celem jest przekazywanie z pokolenia na pokolenie cudownych potraw ktore 
 
 ## opis lokacji
 Nasza restauracja znajduje sie w urokliwym i spokojnym miejscu. Okolica jest zalesiona oraz znajduje sie blisko akwenow przy ktorych mozna odpoczywac.
-nasz lokal zawiera rowniez taras z parasolami. nasza okolica zawiera rowniez wiele atrakcji dla kazdego.
+nasz lokal zawiera rowniez taras z parasolami. nasza okolica zawiera rowniez wiele atrakcji dla kazdego. W naszej ofercie po zakupieniu danego dania powyzej 30 zł wstep na plaże strzeżoną z basenem za darmo.
