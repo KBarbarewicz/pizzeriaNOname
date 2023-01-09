@@ -8,3 +8,6 @@ Wszystkie składniki na ciasto połącz ze sobą dobrze wyrabiając. Gotowe cias
 
 Po tym czasie ciasto jeszcze raz wyrób ręką, podsyp trochę mąką i podziel na 4 do 6 kul tej samej wielkości. 
 
+## Krok 3
+
+Na stolnicy lub gładkim blacie stołu delikatnie podsypanym mąką rozwałkuj lub rozciągnij ciasto ręką, formując okrągły placek. Placek ułóż na pergaminie na odwróconej do góry nogami blasze z piekarnika. 
