@@ -32,11 +32,12 @@
 
 ## Sałatki
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmaker.pl%2Fprzepisy-salatki%2Fprzepis-salatka-milionera%2C1941171%2Csmaker.html&psig=AOvVaw1S6N1NEFZEB4r-qIoyjaXJ&ust=1673365089669000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPij7u_ouvwCFQAAAAAdAAAAABAE">
-|Lp.| Sałatka |cena|
-|---|---------|----|
-1. Lodowa
-2. Po grecku
-3. 
+
+|Lp.| Sałatka                                                             | cena |
+|---|---------------------------------------------------------------------|------|
+|1. | Cesar (sałata,cebula, oliwa z oliwek,pomidor)                       | 17 zł|
+|2. | Po grecku (sałata,cebula, oliwa z oliwek,pomidor,oliwki, feta)      | 22 zł|
+|3. | Hiszpańska (sałata,cebula, oliwa z oliwek,pomidor,oliwki,mozarella) | 25 zł|
 
 
 
@@ -44,6 +45,20 @@
 ## Sosy
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpolki.pl%2Fprzepisy%2Fprzekaski%2Csosy-do-mies-5-przepisow%2C10032912%2Cartykul.html&psig=AOvVaw1oNzHQvTf45PGJFATZDXFs&ust=1673365160702000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjv8ZHpuvwCFQAAAAAdAAAAABAE">
 
+|Lp.| Sosy                                                             | cena |
+|---|------------------------------------------------------------------|------|
+|1. | Czosnkowy                                                        | 6 zł |
+|2. | Ketchup                                                          | 6 zł |
+|3. | BBQ                                                              | 6 zł |
+|4. | Oliwa z oliwek                                                   | 6 zł |
 
 ## Napoje
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiabetyk.org.pl%2Fslodkie-napoje-zwiekszaja-ryzyko-zgonu%2F&psig=AOvVaw1pZzrgPKgknb71kUUNkTlT&ust=1673365197539000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD0p6PpuvwCFQAAAAAdAAAAABAE">
+
+|Lp.| Napoje                                                             | cena |
+|---|--------------------------------------------------------------------|------|
+|1. | Cola  (butelka)                                                    | 6 zł |
+|2. | Fanta (butelka)                                                    | 5 zł |
+|3. | Kawa 150ml                                                         | 9 zł |
+|4. | Herbata 250ml                                                      | 5 zł |
+|5. | Bubble Tea 500ml                                                   | 13 zł|
