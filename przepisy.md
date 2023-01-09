@@ -11,3 +11,7 @@ Po tym czasie ciasto jeszcze raz wyrób ręką, podsyp trochę mąką i podziel 
 ## Krok 3
 
 Na stolnicy lub gładkim blacie stołu delikatnie podsypanym mąką rozwałkuj lub rozciągnij ciasto ręką, formując okrągły placek. Placek ułóż na pergaminie na odwróconej do góry nogami blasze z piekarnika. 
+
+## Krok 4
+
+W garnku zagotuj pomidory pelatti z Knorr Naturalnie smaczne Spaghetti Bolognese - dzięki niemu uzyskasz sos o wyrazistym ziołowo pomidorowym smaku, który będzie miał idealną konsystencję. 
