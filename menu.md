@@ -32,11 +32,12 @@
 
 ## Sałatki
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmaker.pl%2Fprzepisy-salatki%2Fprzepis-salatka-milionera%2C1941171%2Csmaker.html&psig=AOvVaw1S6N1NEFZEB4r-qIoyjaXJ&ust=1673365089669000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPij7u_ouvwCFQAAAAAdAAAAABAE">
-|Lp.| Sałatka |cena|
-|---|---------|----|
-1. Lodowa
-2. Po grecku
-3. 
+
+|Lp.| Sałatka                                                             | cena |
+|---|---------------------------------------------------------------------|------|
+|1. | Cesar (sałata,cebula, oliwa z oliwek,pomidor)                       | 17 zł|
+|2. | Po grecku (sałata,cebula, oliwa z oliwek,pomidor,oliwki, feta)      | 22 zł|
+|3. | Hiszpańska (sałata,cebula, oliwa z oliwek,pomidor,oliwki,mozarella) | 25 zł|
 
 
 
