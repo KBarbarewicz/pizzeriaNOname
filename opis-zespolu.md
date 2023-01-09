@@ -1,5 +1,7 @@
 #Zespół
 
-## Szef kuchni ####
+## Szef kuchni "####"
 
-## Zastępca szefa ####
+## Zastępca szefa "####"
+
+## Właściciel "####"
