@@ -56,3 +56,9 @@
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiabetyk.org.pl%2Fslodkie-napoje-zwiekszaja-ryzyko-zgonu%2F&psig=AOvVaw1pZzrgPKgknb71kUUNkTlT&ust=1673365197539000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD0p6PpuvwCFQAAAAAdAAAAABAE">
 
 |Lp.| Napoje                                                             | cena |
+|---|--------------------------------------------------------------------|------|
+|1. | Cola  (butelka)                                                    | 6 zł |
+|2. | Fanta (butelka)                                                    | 5 zł |
+|3. | Kawa 150ml                                                         | 9 zł |
+|4. | Herbata 250ml                                                      | 5 zł |
+|5. | Bubble Tea 500ml                                                   | 13 zł|
