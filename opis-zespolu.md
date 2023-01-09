@@ -7,3 +7,5 @@
 ## Właściciel "####"
 
 ## Kelner "####"
+
+## Pomocnik kucharza "####"
